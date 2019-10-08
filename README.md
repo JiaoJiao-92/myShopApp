@@ -20,3 +20,6 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # myShopApp
+
+第一个vue开发的项目 尝试性开发 自学的vue相关内容
+很多不完善的地方 正在学习中 下一个会更好
