@@ -57,6 +57,9 @@ export default {
         //付款的时候的回调
         setStatus(){
 
+        },
+        goPay(tPrice,_oId){
+            alert("去付款");
         }
     }
 }
