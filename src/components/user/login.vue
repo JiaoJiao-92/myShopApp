@@ -11,7 +11,7 @@
     </div>
     <div class="user-input">
       <input autocomplete="off" type="text" name="password" @focus="focus='password',errorText=''" v-model="password" placeholder="请输入密码">
-      <div @click="username=''" v-show="focus=='password'" class="iconfont icon-shanchu" style="float:right; padding:15px 10px 0px 15px;"></div>
+      <div @click="password=''" v-show="focus=='password'" class="iconfont icon-shanchu" style="float:right; padding:15px 10px 0px 15px;"></div>
     </div>
     <p style="text-align:right; padding-right:20px; padding-top:20px;" @click="forgetPass()">忘记密码</p>
     <div class="user-btn">
